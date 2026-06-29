@@ -1,4 +1,4 @@
 # sarah-demo
 this is my first git  repository
 <br>
-author-saranya sarah
+author-saranya patra
